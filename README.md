@@ -130,3 +130,17 @@ node server.js
 - доступ к таблицам с персональными данными (`risk_list`, `polises`) у киоска отсутствует;
 - пароль БД остаётся на сервере и не передаётся на сенсорный ПК;
 - в репозитории нет конфигов подключения, снимков данных и журналов.
+
+## 11. Скриншоты
+
+| Главный экран | Прайс и сертификаты |
+|---|---|
+| ![Главный экран](docs/screenshots/production-home-20261102.png) | ![Прайс и сертификаты](docs/screenshots/production-price-sert.png) |
+| **Расписание** | **Врачи: островок главного врача** |
+| ![Расписание](docs/screenshots/production-schedule.png) | ![Врачи](docs/screenshots/production-chief-island.png) |
+| **Карточка врача** | **Информация для пациентов** |
+| ![Карточка врача](docs/screenshots/production-chief-modal.png) | ![Информация](docs/screenshots/production-info.png) |
+| **Запись на приём** | **Предупреждение о закрытии записи** |
+| ![Запись на приём](docs/screenshots/booking-zoom-140.png) | ![Предупреждение](docs/screenshots/booking-warn.png) |
+
+Остальные материалы — проверка вёрстки, предпросмотры шапки, состояния записи — в папке [`docs/screenshots`](docs/screenshots).
