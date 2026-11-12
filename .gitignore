@@ -1,0 +1,9 @@
+node_modules/
+data/
+logs/
+docs/dumps/
+docs/preview/
+docs/source/
+docs/*.docx
+*.log
+~$*
